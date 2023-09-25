@@ -5,7 +5,7 @@ aiofiles
 dnspython
 psutil
 sqlalchemy==2.0.21
-aiohttp==3.8.4
+aiohttp==3.8.5
 pymongo[srv]==4.5.0
 bs4
 heroku3
